@@ -16,8 +16,9 @@ public class Telephone {
     private String phonetype, phonenumber;
 
     @ManyToOne
+    @JoinColumn(name = "zooid")
     @JsonIgnoreProperties("telephones")
-    private Zoo zooid;
+    private Zoo zoo;
 
     public Telephone(){}
 
@@ -45,11 +46,11 @@ public class Telephone {
         this.phonenumber = phonenumber;
     }
 
-    public Zoo getZooid() {
-        return zooid;
+    public Zoo getZoo() {
+        return zoo;
     }
 
-    public void setZooid(Zoo zooid) {
-        this.zooid = zooid;
+    public void setZoo(Zoo zoo) {
+        this.zoo = zoo;
     }
 }

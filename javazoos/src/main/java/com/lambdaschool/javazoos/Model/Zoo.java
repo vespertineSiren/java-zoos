@@ -7,7 +7,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 @Entity
-@Table(name = "zoos")
+@Table(name = "zoo")
 public class Zoo {
 
     @Id
@@ -17,13 +17,11 @@ public class Zoo {
 
     private String zooname;
 
-    @OneToMany(cascade = CascadeType.ALL)
-    @JoinColumn(name = "phoneid")
+    @OneToMany(mappedBy = "zoo")
     @JsonIgnoreProperties("zoo")
     private Set<Telephone> telephones = new HashSet<>();
 
-    @ManyToMany
-    @JoinColumn(name = "animalid")
+    @ManyToMany(mappedBy = "zoos")
     @JsonIgnoreProperties("zoos")
     private Set<Animal> animals = new HashSet<>();
 
@@ -44,5 +42,21 @@ public class Zoo {
 
     public void setZooname(String zooname) {
         this.zooname = zooname;
+    }
+
+    public Set<Telephone> getTelephones() {
+        return telephones;
+    }
+
+    public void setTelephones(Set<Telephone> telephones) {
+        this.telephones = telephones;
+    }
+
+    public Set<Animal> getAnimals() {
+        return animals;
+    }
+
+    public void setAnimals(Set<Animal> animals) {
+        this.animals = animals;
     }
 }

@@ -1,0 +1,400 @@
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T023353.200.json
+
+###
+
+GET http://localhost:8080/zoos/zoos
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T023340.200.json
+
+###
+
+GET http://localhost:8080/zoos/zoos
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T023324.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T023317-2.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T023317-1.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T023317.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T023316.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T022918.200.json
+
+###
+
+GET http://localhost:8080/animals/animaks
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T022915.404.json
+
+###
+
+GET http://localhost:8080/zoos/zoos
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T022907.200.json
+
+###
+
+GET http://localhost:8080/zoos/zoos
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T022614-1.200.json
+
+###
+
+GET http://localhost:8080/zoos/zoos
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T022614.200.json
+
+###
+
+GET http://localhost:8080/zoos/zoos
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T022613-1.200.json
+
+###
+
+GET http://localhost:8080/zoos/zoos
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T022613.200.json
+
+###
+
+GET http://localhost:8080/zoos/zoos
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T022601.200.json
+
+###
+
+GET http://localhost:8080/zoos/zoos
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T022600.200.json
+
+###
+
+GET http://localhost:8080/zoos/zoos
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T022513.200.json
+
+###
+
+GET http://localhost:8080/zoos
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T022507.404.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T022456-1.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T022456.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T022449-1.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T022449.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T022448.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T022214.200.json
+
+###
+
+GET http://localhost:8080/zoos/zoos
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T022208.200.json
+
+###
+
+GET http://localhost:8080/zoos/zoos
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021731.200.json
+
+###
+
+GET http://localhost:8080/zoos/zoos
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021730.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021724-2.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021724-1.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021724.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021723.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021633.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021632.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021631.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021538-1.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021538.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021537-1.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021537.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021505.200.json
+
+###
+
+GET http://localhost:8080/zoos/zoos
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021129.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021125-1.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021125.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021124.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021043.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021042-1.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021042.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T021041.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T020727.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T020100.200.json
+
+###
+
+GET http://localhost:8080/animals/animals
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-27T020059.200.json
+
+###
+

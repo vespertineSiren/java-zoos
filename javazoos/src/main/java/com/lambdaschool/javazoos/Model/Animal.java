@@ -18,9 +18,9 @@ public class Animal {
 
     @ManyToMany
     @JoinTable(name = "zooanimals",
-        joinColumns = {@JoinColumn(name = "animalid")},
-        inverseJoinColumns = {@JoinColumn(name = "zooid")})
-    @JsonIgnoreProperties("animals")
+            joinColumns = {@JoinColumn(name = "animalid")},
+            inverseJoinColumns = {@JoinColumn(name = "zooid")})
+   @JsonIgnoreProperties("animals")
     private Set<Zoo> zoos = new HashSet<>();
 
     public Animal(){}
