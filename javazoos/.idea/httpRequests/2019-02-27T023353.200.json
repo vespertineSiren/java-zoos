@@ -1,0 +1,37 @@
+[
+  {
+    "animalid": 1,
+    "animaltype": "lion",
+    "zoos": []
+  },
+  {
+    "animalid": 2,
+    "animaltype": "bear",
+    "zoos": []
+  },
+  {
+    "animalid": 3,
+    "animaltype": "monkey",
+    "zoos": []
+  },
+  {
+    "animalid": 4,
+    "animaltype": "penguin",
+    "zoos": []
+  },
+  {
+    "animalid": 5,
+    "animaltype": "tiger",
+    "zoos": []
+  },
+  {
+    "animalid": 6,
+    "animaltype": "bear",
+    "zoos": []
+  },
+  {
+    "animalid": 7,
+    "animaltype": "turtle",
+    "zoos": []
+  }
+]
